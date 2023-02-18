@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-- 💼 18年毕业，目前在成都某大厂做全栈开发
+- 💼 18年计算机本科毕业，目前在成都某大厂做全栈开发
 - 🔭 懂一些python相关框架，会一点vue前端，会一些简单的技术开发
 - 🌱 目前正在学习java和go相关技术栈
 - 📫 如果你对我感兴趣，可以添加微信：poxiaozy_sub

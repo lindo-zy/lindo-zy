@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   -->
 
 - 💼 工作地：成都
-- 🔭 工作内容：测试系统开发+全栈开发
+- 🔭 工作内容：测试系统全栈
 - 🌱 目前正在学习go、rust相关，分布式和软件架构学习
 - 📫 如果你对我感兴趣，可以添加微信：poxiaozy_sub
 - 😄 喜欢美食和旅游！

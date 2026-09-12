@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 - 💼 工作地：成都
 - 🔭 工作内容：自动化测试架构师
-- 🌱 目前正在进行go、AI相关、分布式和软件架构学习
+- 🌱 目前专注于主流AI编程开发
 - 📫 如果你对我感兴趣，可以添加微信：poxiaozy_sub
 - 😄 喜欢美食和旅游！
